@@ -1,3 +1,6 @@
+//Capicua ou palındromo e deﬁnido como um numero que lido da direita para a esquerda ou da esquerda para a direita e identico. 
+//Escreva um programa C que solicite ao usuario a digitacao de um numero inteiro e positivo no intervalo [1000,9999] 
+//e que veriﬁque se o numero e palındromo.
 #include <stdio.h>
 int main() {
 	int i1;
