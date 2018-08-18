@@ -1,3 +1,5 @@
+//Escreva um programa C que solicite ao usu´ario a entrada de 3 numeros inteiros quaisquer. 
+//O programa deve calcular e apresentar na tela a soma dos numeros informados pelo usuario.
 #include <stdio.h>
 int main() {
 	int i;
