@@ -1,3 +1,8 @@
+//Escreva uma funcao que receba como argumento de entrada um vetor de tamanho N, onde N tambem e passado como argumento de entrada.
+//A funcao deve retornar a media aritmetica dos elementos do vetor. Escreva tambem uma funcao para inicializar e exibir na saıda
+//padrao um vetor com valores aleatorios no intervalo [A,B], onde A e B sao numeros inteiros quaisquer e B ≥ A. 
+//Escreva uma aplicacao para gerar um vetor de tamanho 100 e exibir na saıda padrao a media aritmetica do conteudo.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
