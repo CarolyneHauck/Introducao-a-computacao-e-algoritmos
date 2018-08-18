@@ -1,3 +1,6 @@
+// Escrever um programa C que receba na entrada padrao uma sequencia de 5 letras maiusculas. 
+//O programa deve retornar o numero de vezes necessarios para que seja gerado uma sequencia aleatoria identica.
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
