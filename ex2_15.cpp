@@ -1,3 +1,5 @@
+//Escreva um programa C que solicite ao usuario o valor da hora atual no formato HHMMSS. O programa deve calcular e mostrar na tela 
+//o total de segundos transcorridos desde o inıcio do dia.
 #include <stdio.h>
 int main() {
 	float h;
