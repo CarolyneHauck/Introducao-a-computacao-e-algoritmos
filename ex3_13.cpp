@@ -1,3 +1,5 @@
+// Tres valores numericos podem ser os lados de um triangulo se cada valor for menor que a soma dos outros valores. 
+//Escreva um programa C que solicite ao usuario a digitacao de tres valores inteiros e veriﬁque se podem formar um triangulo.
 #include <stdio.h>
 int main() {
 	int i1;
