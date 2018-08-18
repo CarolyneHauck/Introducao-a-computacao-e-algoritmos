@@ -1,3 +1,5 @@
+//Escreva um programa C que solicite ao usuario o salario de um funcionario e que calcule e mostre na tela o novo salario, 
+//sabendo-se que houve um reajuste de 12.5%.
 #include <stdio.h>
 int main() {
 	float salario;
