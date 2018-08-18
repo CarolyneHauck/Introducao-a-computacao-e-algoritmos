@@ -1,3 +1,5 @@
+//Escrever um programa C que inicialize randomicamente os elementos de uma matriz quadrada de ordem 10 de 
+//caracteres no intervalo [A,Z]. Exibir o conteu´do da matriz na sa´ıda padr˜ao.
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
