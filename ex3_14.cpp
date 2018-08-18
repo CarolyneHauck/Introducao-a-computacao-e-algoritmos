@@ -1,3 +1,6 @@
+//Escrever um programa C que solicite ao usuario a digita¸cao dos coeﬁcientes de uma equacao do segundo grau 
+//(ax2 +bx+c = 0) e que calcule e retorne as raızes reais da equacao. 
+//Observe que uma equacao do 2o grau pode ter duas, uma ou nenhuma raiz real, dependendo do valor de ∆, onde ∆ = b2 −4ac. 
 #include <stdio.h>
 #include <math.h>
 int main() {
