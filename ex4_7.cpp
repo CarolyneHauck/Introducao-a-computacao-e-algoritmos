@@ -1,3 +1,5 @@
+//Escreva um programa C que solicite ao usuario a digitacao de 10 numeros inteiros e positivos e que calcule e exiba na tela a 
+//media aritmetica dos numeros fornecidos.
 #include <stdio.h>
 int main() {
 	int soma;
