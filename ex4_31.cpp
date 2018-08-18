@@ -1,3 +1,7 @@
+//Escrever um programa C que solicite ao usu´ario a digitacao em tempo de execucao de diversos caracteres. A entrada de dados deve 
+//terminar quando o usuario digitar qualquer caractere que nao for uma letra. Exibir na tela o total de letras maiusculas e o total de 
+//letras minusculas digitadas.
+
 #include <stdio.h>
 #include <ctype.h>
 int main(){
