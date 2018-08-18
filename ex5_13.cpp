@@ -1,3 +1,5 @@
+//Escrever um programa C para criar e exibir na saıda padrao dois vetores de inteiros A e B de tamanho 20 cujo conteudo sejam numeros
+//pseudoaleatorios no intervalo [0,99]. Calcular e exibir na saıda padrao o vetor soma C dado por C = A + B.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
