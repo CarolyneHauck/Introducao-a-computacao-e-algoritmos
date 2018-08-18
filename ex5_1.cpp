@@ -1,3 +1,5 @@
+//Escrever um programa C para criar um vetor de float de tamanho 8 e inicializar cada elemento com um valor fornecido 
+//pelo usuario em tempo de execucao. 
 #include <stdio.h>
 int main() {
 	int i;
