@@ -1,3 +1,4 @@
+//Escrever um programa C que receba na entrada padao uma frase digitada pelo usuario e que apresente na saıda padrao a frase retirando-se todos os espacos em branco.
 #include <stdio.h>
 int main() {
 	char fraseA[81];
