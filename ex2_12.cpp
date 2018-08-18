@@ -1,3 +1,5 @@
+// Escreva um programa C que calcule e apresente na tela a area de um triangulo retangulo. 
+//Os valores da base e altura devem ser fornecidos pelo usu´ario em tempo de execucao.
 #include <stdio.h>
 int main() {
 	float f;
