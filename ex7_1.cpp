@@ -1,3 +1,5 @@
+//Escreva uma funcao que apresente na saıda padrao uma frase informada pelo usuario na entrada padrao. A saıda deve ser centralizada na
+//linha. Considere que a frase digitada deve ter, no maximo, 80 caracteres.
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
