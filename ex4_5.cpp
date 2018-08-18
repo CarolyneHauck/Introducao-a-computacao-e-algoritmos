@@ -1,3 +1,5 @@
+//Escrever uma programa C que exiba na tela todos os numeros inteiros compreendidos entre um limite inferior e um
+//limite superior fornecidos pelo usu´ario em tempo de execu¸ca˜o.
 #include <stdio.h>
 int main() {
 	int i;
