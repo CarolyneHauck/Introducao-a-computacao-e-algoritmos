@@ -1,3 +1,6 @@
+//Escrever um programa C que receba na entrada padrao duas palavras digitadas pelo usuario. O programa deve veriﬁcar se as palavras sao 
+//iguais ou diferentes, independente dos caracteres estarem em letras minusculas ou maiusculas.
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
