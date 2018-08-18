@@ -1,3 +1,5 @@
+//Escrever um programa C para criar um vetor de inteiros de tamanho 10 e inicializar cada elemento com um valor no intervalo [1,10] fornecido pelo usu´ario em tempo de execu¸c˜ao. Caso o usu´ario digite um nu´mero inteiro fora do intervalo, deve ser solicitado a digitar novamente. 
+//Esse processo deve se repetir at´e que seja fornecido um valor v´alido.
 #include <stdio.h>
 int main() {
 	int i;
