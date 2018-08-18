@@ -1,3 +1,6 @@
+// Escrever um programa C que inicialize randomicamente os elementos de uma matriz quadrada de ordem 10 de inteiros no intervalo [0,99]. Solicitar ao usu´ario, em tempo de execu¸c˜ao, a digita¸c˜ao de um nu´mero inteiro tamb´em no intervalo [0,99]. 
+//Veriﬁcar se o numero digitado esta presente na matriz.
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
