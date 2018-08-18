@@ -1,3 +1,6 @@
+//Escrever um programa C para criar e exibir na saıda padrao um vetor de caracteres A de tamanho 15 cujo conteudo sejam letras maiusculas 
+//geradas aleatoriamente. Gerar e exibir na saıda padrao um vetor de caracteres B cujo conteudo seja identico ao vetor A porem 
+//com letras minusculas.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
