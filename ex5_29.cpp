@@ -1,3 +1,6 @@
+//Escrever um programa C que gere e apresente na saıda padrao uma matriz quadrada de ordem 8 cujos elementos da diagonal 
+//secundaria possuem numeros inteiros aleatorios no intervalo [1,9] e os demais elementos da matriz possuem valor zero.
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
