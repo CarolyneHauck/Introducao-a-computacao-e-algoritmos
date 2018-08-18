@@ -1,3 +1,5 @@
+//Escreva um programa C que calcule e apresente na tela a media ponderada de duas notas fornecidas pelo usuario 
+//em tempo de execucao. Considere peso 2 para a primeira prova e 3 para a segunda prova
 #include <stdio.h>
 int main() {
 	float f;
