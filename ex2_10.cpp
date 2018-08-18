@@ -1,3 +1,4 @@
+//Escreva um programa C que solicite ao usuario a entrada de 3 numeros reais quaisquer. O programa deve calcular e apresentar na tela a media aritmetica dos numeros.
 #include <stdio.h>
 int main() {
 	float i;
