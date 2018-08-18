@@ -1,3 +1,4 @@
+//Escrever um programa C que receba na entrada padrao uma frase digitada pelo usuario e que exiba na saıda padrao uma palavra por linha.
 #include <stdio.h>
 int main() {
 	char frase[81];
