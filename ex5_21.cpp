@@ -1,3 +1,4 @@
+//Escrever um programa C que simule o lancamento de um dado 1000 vezes e que exiba na saıda padrao o numero de ocorrencias de cada face do dado.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
