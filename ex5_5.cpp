@@ -1,3 +1,5 @@
+// Escrever um programa C para criar um vetor de inteiros de tamanho 10, inicializar cada elemento com numeros crescentes ımpares a 
+//partir de 1 e exibir o conteudo do vetor na saıda padrao.
 #include <stdio.h>
 int main() {
 	int i;
