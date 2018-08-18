@@ -1,3 +1,7 @@
+//Escrever um programa C para criar e exibir na saıda padrao um vetor A de inteiros de tamanho 40 cujo conteudo 
+//corresponda a numeros randomicos no intervalo [0,99]. O programa deve gerar e exibir na saıda padrao um novo vetor 
+//A excluindo todas as ocorrencias de numeros repetidos do vetor A. Por exemplo, se o vetor A come¸car por 45,56,45,3,... 
+//o vetor B comecara por 45,56,3,...
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
