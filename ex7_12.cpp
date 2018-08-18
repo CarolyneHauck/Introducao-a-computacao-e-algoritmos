@@ -1,3 +1,6 @@
+//Escreva uma funcao que receba 2 vetores A e B de inteiros de tamanho N como argumentos de entrada. A funcao deve calcular
+//B = α·A, onde α ´e um nu´mero inteiro tamb´em passado como argumento para a fun¸c˜ao.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
