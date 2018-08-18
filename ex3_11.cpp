@@ -1,3 +1,5 @@
+// Escreva um programa C que solicite ao usuario o codigo de origem de um produto e que mostre o a procedencia, 
+//de acordo com a Tabela 3.3
 #include <stdio.h>
 int main() {
 	int i;
