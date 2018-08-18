@@ -1,3 +1,8 @@
+//Quem Ganhou A Rifa? (junho/2010) Escreva um programa que simule o sorteio de uma rifa. Cada numero no intervalo [1,10] deve ser 
+//associado a um nome. Os nomes e respectivos nu´meros devem ser exibidos na tela. Em seguida, o programa deve sortear aleatoriamente 
+//um numero e apresentar o nome do respectivo vencedor na tela. Os 10 (dez) nomes podem ser digitados pelo usuario em tempo de execucao 
+//ou inseridos diretamente no codigo fonte do programa. Considere cada nome com ate 10 caracteres. Exemplo de execucao:
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
