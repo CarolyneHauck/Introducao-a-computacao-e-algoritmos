@@ -1,3 +1,7 @@
+//Uma matriz e dita triangular superior quando somente os elementos acima e na diagonal principal sao diferentes de 0. 
+//Escrever um programa C que gere e apresente na saıda padrao uma matriz triangular superior de ordem 8 cujo 
+//conteudo sao numeros aleatorios no intervalo [1,99].
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
