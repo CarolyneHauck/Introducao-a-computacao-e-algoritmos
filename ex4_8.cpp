@@ -1,3 +1,5 @@
+//Escreva um programa C que solicite ao usuario a digitacao de 10 caracteres e que calcule e exiba na tela a
+//quantidade de letras do alfabeto que foram digitadas
 #include <stdio.h>
 #include <ctype.h>
 int main() {
