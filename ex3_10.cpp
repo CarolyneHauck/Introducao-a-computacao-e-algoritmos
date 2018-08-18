@@ -1,3 +1,9 @@
+//Escreva um programa C que solicite ao usuario a digitacao de duas notas de um aluno (no intervalo [0,100]) e que calcule e
+//apresente na tela a media aritmetica das notas e a mensagem segundo a regra:
+//• media menor que 40 – Reprovado 
+//• media entre 40 e 70 – Exame ﬁnal 
+//• media maior que 70 – Aprovado
+
 #include <stdio.h>
 #include <math.h>
 int main() {
