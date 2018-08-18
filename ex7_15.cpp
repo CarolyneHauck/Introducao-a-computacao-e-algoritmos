@@ -1,3 +1,5 @@
+//Escrever uma funcao que receba como argumento de entrada uma string e que retorne o numero de palavras existentes na cadeia de caracteres.
+
 #include <stdio.h>
 #include<string.h>
 int qtdPalavras(char[]);
