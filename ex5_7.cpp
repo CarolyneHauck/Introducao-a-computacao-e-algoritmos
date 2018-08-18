@@ -1,3 +1,5 @@
+//Escrever um programa C para criar um vetor de inteiros de tamanho 12, inicializar cada
+//elemento com numeros decrescentes multiplos de 3 a partir de 90 e exibir o conteudo do vetor na saıda padrao.
 #include <stdio.h>
 int main() {
 	int i;
