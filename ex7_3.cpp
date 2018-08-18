@@ -1,3 +1,4 @@
+//Escreva uma funcao que calcule e retorne a media aritmetica de 3 numeros reais fornecidos como argumentos de entrada.
 #include <stdio.h>
 float media(float, float, float);
 int main() {
