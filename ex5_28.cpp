@@ -1,3 +1,7 @@
+//Uma matriz identidade e uma matriz quadrada que possui todos os membros da diagonal principal iguais a 1. 
+//Todos os demais elementos tem conteudo igual a 0. Escrever um programa C que gere e apresente na saıda padrao uma matriz identidade 
+//de ordem 8.
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
