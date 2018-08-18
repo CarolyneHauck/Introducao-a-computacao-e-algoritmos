@@ -1,3 +1,6 @@
+//Segundo uma tabela medica, o peso ideal esta relacionado com a altura e o sexo. Fazer um programa C que receba, em tempo de execucao,
+//a altura H e o sexo de uma pessoa e que calcule e imprima o seu peso ideal,
+//utilizando as seguintes formulas: (a) para homens: 72.7×H −58 e (b) para mulheres 62.1×H −44.7.
 #include <stdio.h>
 #include <math.h>
 int main() {
