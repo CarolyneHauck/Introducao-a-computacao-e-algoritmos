@@ -1,3 +1,5 @@
+//Escrever um programa C que inicialize randomicamente os elementos de duas matriz quadradas A e B de ordem 5 de inteiros no
+//intervalo [0,9]. Calcular e apresentar na saıda padrao a matriz soma C das matrizes geradas C = A + B.
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
