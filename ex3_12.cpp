@@ -1,3 +1,5 @@
+// Escreva um programa C que solicite ao usuario a idade de um nadador e mostre na tela a sua categoria, usando as regras apresentadas 
+//na Tabela 3.4.
 #include <stdio.h>
 int main() {
 	int i;
