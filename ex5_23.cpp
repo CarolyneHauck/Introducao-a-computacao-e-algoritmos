@@ -1,3 +1,5 @@
+//Escrever um programa C que inicialize randomicamente os elementos de uma matriz quadrada de ordem 8 de numeros 
+//reais no intervalo [0.0,9.9]. Exibir o conteudo da matriz na saıda padrao.
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
