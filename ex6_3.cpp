@@ -1,3 +1,4 @@
+// Escrever um programa C que receba na entrada padrao uma frase digitada pelo usuario e que calcule e apresente na saıda padrao a quantidade de vogais.
 #include <stdio.h>
 #include <ctype.h>
 int main() {
