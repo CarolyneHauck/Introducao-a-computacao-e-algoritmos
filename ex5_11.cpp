@@ -1,3 +1,6 @@
+//Escrever um programa C para criar e exibir na saıda padrao um vetor de inteiros de tamanho 20 cujo conteudo seja numeros pseudoaleatorios
+//no intervalo [0,99]. Exibir na saıda padrao o ındice correspondente ao elemento de menor valor.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
