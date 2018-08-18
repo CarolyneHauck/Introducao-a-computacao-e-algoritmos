@@ -1,3 +1,5 @@
+//Escrever um programa C que inicialize randomicamente os elementos de uma matriz de ordem 5×10 de inteiros no intervalo [0,9]. 
+//Exibir na saıda padrao a soma dos elementos da matriz gerada.
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
