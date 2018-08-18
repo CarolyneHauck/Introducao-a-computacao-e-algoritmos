@@ -1,3 +1,5 @@
+//Escreva um programa C que solicite ao usuario a digitacao do seu ano de nascimento. 
+//O programa deve calcular e apresentar na tela: (a) a idade do usuario e (b) em qual ano tera 65 anos.
 #include <stdio.h>
 int main() {
 	int f;
