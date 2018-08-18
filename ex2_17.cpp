@@ -1,3 +1,5 @@
+// Escrever um programa C que solicite ao usuario a digitacao de um numero inteiro no intervalo [100,999]. 
+//Calcular a soma dos algarismos do numero digitado. Por exemplo, se o numero for 234, a soma deve ser 9.
 #include <stdio.h>
 int main() {
 	int i;
