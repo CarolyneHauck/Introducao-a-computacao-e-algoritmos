@@ -1,3 +1,5 @@
+//Escrever um programa C para criar um vetor de caracteres de tamanho 12 e inicializar cada elemento com uma letra fornecida 
+//pelo usuario em tempo de execucao. Caso o usuario digite um caractere invalido, o elemento deve ser preenchido com um asterisco.
 #include <stdio.h>
 #include <ctype.h>
 int main() {
